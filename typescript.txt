@@ -34,3 +34,4 @@ tipos imcompletos
 no ambiente de producao ou execucao os tipos desaparecem e erro ainda podem ocorrer caso
 ao se tenha o devido cuidado na validacao dos dados.
 ////
+////
