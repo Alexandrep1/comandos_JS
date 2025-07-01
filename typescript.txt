@@ -32,4 +32,4 @@ Desvantagens de usar ts
 tipos imcompletos
 6. falso sentimento de seguranca - a tipagem do ts e apenas em abiente de desenvolvimento.
 no ambiente de producao ou execucao os tipos desaparecem e erro ainda podem ocorrer caso
-ao se tenha o devido cuidado na validacao dos dados.
+ao se tenha o devido cuidado na validacao dos dados..
